@@ -18,11 +18,11 @@ Hi, I'm Marcone Ribeiro, I talk from Brazil-Bahia😎🌞 and a passionate for f
 ## Skills & tools 🚀
 <p align="center">
   <a align="center" href="https://github.com/M4RC0N3">
-    <img align="center" style="max-width:100%;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="90" height="30" alt ="HTML 5"></img>
-    <img align="center" style="max-width:100%;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="90" height="30" alt ="CSS 3"></img>
-    <img align="center" style="max-width:100%;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="100" height="30"  alt ="Java Script">        </img>
-    <img align="center" style="max-width:100%;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="90" height="30" alt ="SASS"></img>
-    <img align="center" style="max-width:100%;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="90" height="30" alt ="React"></img>
+    <img align="center" style="max-width:50%;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="90" height="30" alt ="HTML 5"></img>
+    <img align="center" style="max-width:50%;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="90" height="30" alt ="CSS 3"></img>
+    <img align="center" style="max-width:50%;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="100" height="30"  alt ="Java Script">        </img>
+    <img align="center" style="max-width:50%;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="90" height="30" alt ="SASS"></img>
+    <img align="center" style="max-width:50%;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="90" height="30" alt ="React"></img>
   </a>
 </p>
 
