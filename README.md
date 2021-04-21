@@ -1,7 +1,5 @@
 # Hi there, I'm Marcone 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as free-lancer
 - 🌱 I’m currently learning React-Native
 - 💬 Ask me about ...
@@ -21,14 +19,14 @@ Here are some ideas to get you started:
 
 <p align = "center">
   <a href="mailto:marconeribeiro22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
   </a>
   <a href="https://www.instagram.com/marcone_s.ribeiro/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img>
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img>
   </a>
   
   <a href="https://github.com/M4RC0N3">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img>
+    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img>
   </a>
   
 </p>
