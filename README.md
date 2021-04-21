@@ -6,6 +6,14 @@ Hi, I'm Marcone Ribeiro, I talk from Brazil-Bahia😎🌞 and a passionate for f
 - 🌱 I’m learning React-Native
 - 🎮 I love Games 
 
+<p align="center">
+  <a align="center" href="https://github.com/M4RC0N3">
+    <img align="center" height="180" src= "https://github-readme-stats.vercel.app/api?username=M4RC0N3&count_private=true/api?username=M4RC0N3&show_icons=true&bg_color=45,0acf73,00ffd0&title_color=7558FF&icon_color=FFFB69"></img>
+  </a>
+  <a align="center" href="https://github.com/M4RC0N3">
+    <img align="center" height="180" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=M4RC0N3&layout=compact&bg_color=45,0acf73,00ffd0&title_color=7B19FF&icon_color=FFFB69)](https://github.com/anuraghazra/github-readme-stats)"></img>
+  </a>
+</p>
 
 ## Skills & tools 🚀
 <p align="center">
@@ -15,16 +23,6 @@ Hi, I'm Marcone Ribeiro, I talk from Brazil-Bahia😎🌞 and a passionate for f
     <img align="center" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="100" height="30"  alt ="Java Script">        </img>
     <img align="center" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="90" height="30" alt ="SASS"></img>
     <img align="center" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="90" height="30" alt ="React"></img>
-  </a>
-</p>
-
-  
-<p align="center">
-  <a align="center" href="https://github.com/M4RC0N3">
-    <img align="center" height="180" src= "https://github-readme-stats.vercel.app/api?username=M4RC0N3&count_private=true/api?username=M4RC0N3&show_icons=true&bg_color=45,0acf73,00ffd0&title_color=7558FF&icon_color=FFFB69"></img>
-  </a>
-  <a align="center" href="https://github.com/M4RC0N3">
-    <img align="center" height="180" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=M4RC0N3&layout=compact&bg_color=45,0acf73,00ffd0&title_color=7B19FF&icon_color=FFFB69)](https://github.com/anuraghazra/github-readme-stats)"></img>
   </a>
 </p>
 
