@@ -18,10 +18,15 @@ Hi, I'm Marcone Ribeiro, I talk from Brazil-Bahia😎🌞 and a passionate for f
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4RC0N3&count_private=true/api?username=M4RC0N3&show_icons=true&bg_color=45,0acf73,00ffd0&title_color=7558FF&icon_color=FFFB69)
-
-![alt text] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4RC0N3&layout=compact&bg_color=45,0acf73,00ffd0&title_color=7B19FF&icon_color=FFFB69)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+<p align="center">
+  <a align="center" href="https://github.com/M4RC0N3">
+    <img align="center" height="180" src= "https://github-readme-stats.vercel.app/api?username=M4RC0N3&count_private=true/api?username=M4RC0N3&show_icons=true&bg_color=45,0acf73,00ffd0&title_color=7558FF&icon_color=FFFB69"></img>
+  </a>
+  <a align="center" href="https://github.com/M4RC0N3">
+    <img align="center" height="180" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=M4RC0N3&layout=compact&bg_color=45,0acf73,00ffd0&title_color=7B19FF&icon_color=FFFB69)](https://github.com/anuraghazra/github-readme-stats)"></img>
+  </a>
+</p>
 
 ## Contact 📱 
 <p align = "center">
