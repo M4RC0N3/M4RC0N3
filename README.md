@@ -4,7 +4,7 @@ Hi, I'm Marcone Ribeiro, I talk from Brazil-Bahia😎🌞 and a passionate for f
 - 👨🏾‍💻 Front-end Developer
 - 🎨 Designer
 - 🔭 I’m currently working as free-lancer
-- 🌱 I’m learning React-Native
+- 🌱 I’m learning entrepreneurial metality
 - 🎮 I love Games 
 
 <p align="center">
