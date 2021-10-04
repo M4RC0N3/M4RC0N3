@@ -40,7 +40,7 @@ Hi, I'm Marcone Ribeiro, I talk from Brazil-Bahia😎🌞 and a passionate for f
     <img align="center" style="max-width:100%" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></img>
   </a>
   
-  <a href="https://discord.gg/maUSP3nkqX">
+  <a href="https://discord.gg/MggxvnD98u">
     <img align="center" style="max-width:100%" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></img>
   </a>
   
