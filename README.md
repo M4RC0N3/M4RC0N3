@@ -24,6 +24,7 @@ Hi, I'm Marcone Ribeiro, I talk from Brazil-Bahia😎🌞 and a passionate for f
     <img align="center" style="max-width:100%;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="100" height="30"  alt ="Java Script">        </img>
     <img align="center" style="max-width:100%;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="90" height="30" alt ="SASS"></img>
     <img align="center" style="max-width:100%;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="90" height="30" alt ="React"></img>
+  <img align="center" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="90" height="50" alt="git"/>
   </a>
 </p>
 
