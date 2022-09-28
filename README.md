@@ -53,7 +53,7 @@ https://coruja.tech/
     <img align="center" style="max-width:100%" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></img>
   </a>
   
-  <a href="https://discord.gg/MggxvnD98u">
-    <img align="center" style="max-width:100%" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></img>
+  <a href="https://www.linkedin.com/in/marcone-ribeiro-947184163/">
+    <img align="center" style="max-width:100%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Discord"></img>
   </a>
   
