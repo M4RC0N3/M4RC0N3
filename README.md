@@ -12,10 +12,10 @@ websites developed by me
  https://m4rc0n3.github.io/digipeks-army/
 <p align="center">
   <a align="center" href="https://github.com/M4RC0N3">
-    <img align="center" height="180" width="400" src= "https://github-readme-stats.vercel.app/api?username=M4RC0N3&count_private=true/api?username=M4RC0N3&show_icons=true&bg_color=45,0acf73,00ffd0&title_color=7558FF&icon_color=FFFB69"></img>
+    <img align="center" height="180" width="400" src= "https://github-readme-stats.vercel.app/api?username=M4RC0N3&count_private=true/api?username=M4RC0N3&show_icons=true&bg_color=45,6C49D0,362293&title_color=FFF&icon_color=FFF&text_color=FFF"></img>
   </a>
   <a align="center" href="https://github.com/M4RC0N3">
-    <img align="center" height="180" width="400" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=M4RC0N3&layout=compact&bg_color=45,0acf73,00ffd0&title_color=7B19FF&icon_color=FFFB69)](https://github.com/M4RC0N3/github-readme-stats)"></img>
+    <img align="center" height="180" width="400" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=M4RC0N3&layout=compact&bg_color=45,6C49D0,362293&title_color=FFF&icon_color=FFF&text_color=FFF")](https://github.com/M4RC0N3/github-readme-stats)"></img>
   </a>
 </p>
 
