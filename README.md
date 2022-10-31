@@ -1,7 +1,7 @@
 # Hi there, Welcome. I'm Marcone 👋. 
 Hi, I'm Marcone Ribeiro, I talk from Brazil-Bahia😎🌞 and a passionate for front-end development. 
 
-- 👨🏾‍💻 Front-end Developer
+- 👨🏾‍💻 Front-end Developer-React
 - 🎨 UI Designer
 - 🔭 I’m currently working at quickup.io
 - 🌱 I’m learning entrepreneurial metality
