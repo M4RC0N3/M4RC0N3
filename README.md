@@ -69,17 +69,6 @@ Tech Lead based in Bahia, Brazil 🌞. I build products that combine software en
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" width="40" height="40" alt="Trello" />
 </p>
 
-## GitHub stats 📊
-
-<p align="center">
-  <a href="https://github.com/M4RC0N3">
-    <img height="180" src="https://github-stats-extended.vercel.app/api?username=M4RC0N3&show_icons=true&count_private=true&bg_color=45,6C49D0,362293&title_color=FFF&icon_color=FFF&text_color=FFF" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/M4RC0N3">
-    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=M4RC0N3&layout=compact&bg_color=45,6C49D0,362293&title_color=FFF&icon_color=FFF&text_color=FFF" alt="Top languages" />
-  </a>
-</p>
-
 ## Contact 📱
 
 <p align="center">
